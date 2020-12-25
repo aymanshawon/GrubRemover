@@ -12,21 +12,21 @@ Entire Process work in just single click with automaticly 🤩
 
 ### How To Use
 ##### Run As Administrator 
-![Alt Text](https://ibb.co/pn7fL5s)
+![Alt Text](https://i.ibb.co/0Q7CGvW/3.png)
 
 ###### Now After Run As Administrator 🤨
 
-![Alt Text](https://ibb.co/Sy9CWnp)
+![Alt Text](https://i.ibb.co/g9BKHTC/4.png)
 
 ##### Now Your Grub Completely Removed😉😎
 
 ##### If You See This Kinds of Error.. Just Enter Or Type 'Y' 👍
 
-![Alt Text](https://ibb.co/GF42MBx)
+![Alt Text](https://i.ibb.co/DLHCMsV/1.png)
 
 ##### Now Start Repair Your Boot Configure 
 
-![Alt Text](https://ibb.co/hYTfFZR)
+![Alt Text](https://i.ibb.co/7k04tRJ/2.png)
 <pre>
 And Now Finish WHat Happen In This Peocess Actually ?🙄
 In This Process First Repair your Boot Then Active Your Booted Drive 😉
