@@ -1,6 +1,15 @@
+<h1 align="center">
 
 ![GitHub Logo](https://github.com/LuciMadMax/GrubRemover/blob/main/Linux.ico)
-## GrubRemover
+  
+<p color="red"> GrubRemover <p>
+
+  ![Windows](https://img.shields.io/badge/windows-7-brightgreen?style=flat&logo=windows&logoColor=white)
+  ![Windows](https://img.shields.io/badge/windows-8-brightgreen?style=flat&logo=windows&logoColor=cyan)
+  ![Windows](https://img.shields.io/badge/windows-10-brightgreen?style=flat&logo=windows&logoColor=blue)
+  
+</h1>
+
 <pre>
 <h3>Author: 0x3e & 0x3f 😍
 Group : lyimc 0xff 🤩
